@@ -27,6 +27,7 @@ mod shell;
 mod style;
 mod suggestions;
 mod system;
+mod term;
 
 #[macro_use]
 extern crate rust_i18n;
